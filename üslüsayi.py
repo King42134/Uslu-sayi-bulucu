@@ -1,0 +1,5 @@
+print("ilk sayiyi giriniz")
+y = int(input())
+print("Sayinin üssünü giriniz")
+x = int(input())
+print(pow(y, x))
